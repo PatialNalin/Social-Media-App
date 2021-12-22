@@ -45,16 +45,6 @@
 ## Copyright claims
 Many images used in the project belong to their respective creators/authors. No claim by me & those who use this project!!
 
-## How to Contribute
-Show your support by 🌟 the project!!
-
-* Fork the the project
-* Create your feature branch (git checkout -b my-new-feature)
-* Make required changes and commit (git commit -am 'Add some feature')
-* Push to the branch (git push origin my-new-feature)
-* Create new Pull Request
-
-Feel free to contribute!
 
 
 ## License
